@@ -1,4 +1,4 @@
-# ATEC
+# ATEC API INTEGRATION PROJECT
 
 # imports
 import json
